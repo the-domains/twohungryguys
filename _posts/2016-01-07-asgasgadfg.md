@@ -1,13 +1,13 @@
 ---
-inFeed: true
+inFeed: false
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: sdfgsdfg
-datePublished: '2016-01-07T21:52:57.293Z'
-dateModified: '2016-01-07T21:52:50.684Z'
+datePublished: '2016-01-07T21:59:15.178Z'
+dateModified: '2016-01-07T21:59:10.673Z'
 title: When are they ready?
 author: []
 sourcePath: _posts/2016-01-07-asgasgadfg.md
@@ -19,7 +19,7 @@ publisher:
   url: null
   favicon: null
 url: asgasgadfg/index.html
-_type: Article
+_type: WebPage
 
 ---
 We have had some amazing laughs and struggles raising the pigs. They have escaped through the fence, knocked us over, and even given us a visit to the hospital for a back pull...
