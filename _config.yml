@@ -1,0 +1,28 @@
+name: twohungryguys
+favicon: null
+layout_spectrum: 0.3984201471321285
+typography_spectrum: 0.20513854757882655
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.34013876132667065
+  lightness: 0.3196883697528392
+  saturation: 0.7333707557991147
+  rhythmicContrast: 0.9211398190818727
+purpose: []
