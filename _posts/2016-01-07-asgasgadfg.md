@@ -3,11 +3,11 @@ inFeed: false
 hasPage: true
 inNav: true
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: sdfgsdfg
-datePublished: '2016-01-07T21:59:15.178Z'
-dateModified: '2016-01-07T21:59:10.673Z'
+datePublished: '2016-01-07T21:59:24.103Z'
+dateModified: '2016-01-07T21:59:17.236Z'
 title: When are they ready?
 author: []
 sourcePath: _posts/2016-01-07-asgasgadfg.md
