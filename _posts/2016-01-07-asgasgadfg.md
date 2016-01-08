@@ -6,10 +6,10 @@ isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
-description: sdfgsdfg
-datePublished: '2016-01-07T22:21:20.209Z'
-dateModified: '2016-01-07T22:21:17.128Z'
-title: When are they ready?
+description: ''
+datePublished: '2016-01-08T11:44:18.124Z'
+dateModified: '2016-01-08T11:44:09.968Z'
+title: When Are They Ready?
 author: []
 sourcePath: _posts/2016-01-07-asgasgadfg.md
 published: true
@@ -28,3 +28,5 @@ Overall, worth every bit of effort to get to a stage where we can enjoy the orga
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/2b844e54-5654-479f-8483-b7ef89d9eb5a.JPG)
 
 So how long until they are ready. Here is the deal. Two of the pigs are spoken for, two hungry guys, right? However, that does mean that we have three beautiful pigs to offer to you.
+
+**WE ARE ALREADY TAKING ORDERS SO call Chris on 07568 357165 or Paul on  07500 938479**
