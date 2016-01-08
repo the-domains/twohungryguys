@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[twohungryguys]]></title>
+        <description><![CDATA[twohungryguys]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 08 Jan 2016 11:40:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How Were They Looked After]]></title>
+            <description><![CDATA[<article><h1>How Were They Looked After</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42369438-fba7-4b43-abd9-81db3eeca677.JPG"></article>]]></description>
+            <link>undefinedhow-were-they-looked-after/index.html</link>
+            <guid isPermaLink="false">a0a60d5c-f750-4ab8-ba8a-8ed9a0dcf09b</guid>
+            <pubDate>Fri, 08 Jan 2016 11:40:40 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
