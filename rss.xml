@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[twohungryguys]]></title>
         <description><![CDATA[twohungryguys]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/twohungryguys/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jan 2016 11:40:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jan 2016 11:49:55 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/twohungryguys/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[How Were They Looked After]]></title>
-            <description><![CDATA[<article><h1>How Were They Looked After</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42369438-fba7-4b43-abd9-81db3eeca677.JPG"></article>]]></description>
-            <link>undefinedhow-were-they-looked-after/index.html</link>
+            <description><![CDATA[<article><h1>How Were They Looked After</h1><p>We saw the pigs every day and gave them lots of care; brushing them with a stiff brush and making sure that they were running around.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/783a2202a783c4757bea60bcc738f0b989292e92.jpg"></article>]]></description>
+            <link>https://thegrid.ai/twohungryguys/how-were-they-looked-after/index.html</link>
             <guid isPermaLink="false">a0a60d5c-f750-4ab8-ba8a-8ed9a0dcf09b</guid>
-            <pubDate>Fri, 08 Jan 2016 11:40:40 GMT</pubDate>
+            <pubDate>Fri, 08 Jan 2016 11:49:32 GMT</pubDate>
         </item>
     </channel>
 </rss>
