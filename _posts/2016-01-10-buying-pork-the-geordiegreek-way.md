@@ -1,13 +1,13 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T15:25:16.349Z'
-dateModified: '2016-01-10T15:25:13.156Z'
+datePublished: '2016-01-12T15:31:40.668Z'
+dateModified: '2016-01-12T15:31:37.050Z'
 title: Buying Pork the Geordie/Greek Way
 author: []
 sourcePath: _posts/2016-01-10-buying-pork-the-geordiegreek-way.md
